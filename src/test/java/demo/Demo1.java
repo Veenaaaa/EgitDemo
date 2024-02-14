@@ -8,10 +8,12 @@ public class Demo1 {
 	public void hello()
 	{
 		System.out.println("hello");
+		System.out.println("hello");
 	}
 	@Test
 	public void bye()
 	{
+		System.out.println("bye");
 		System.out.println("bye");
 	}
 
